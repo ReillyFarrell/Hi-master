@@ -1,6 +1,6 @@
 #Table Time!
 #####Top Ten Names I Would Give a Capybara if I Met One
-| # | Name |
+| # | Names |
 |:-:|:----:|
 | 1 | Snuffles
 | 2 | Caps Lock
